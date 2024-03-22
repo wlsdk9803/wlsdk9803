@@ -36,6 +36,6 @@ SQL 개발자 (SQLD) <sub>(2023.04)</sub> <br/><br/>
 - 데이터베이스 설계 수업 학기말 개인 프로젝트
 - GitHub: https://github.com/wlsdk9803/2022-database
 
-#### 3. 시각장애인을 위한 인터넷 쇼핑 도우미, Eyescape <sub>(2023.03 ~ 2023.06)</sub><
+#### 3. 시각장애인을 위한 인터넷 쇼핑 도우미, Eyescape <sub>(2023.03 ~ 2023.06)</sub>
 - 인하대학교 정보통신공학과 졸업 프로젝트
 - GitHub: https://github.com/wlsdk9803/2023-graduation-project
