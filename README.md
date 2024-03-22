@@ -11,7 +11,7 @@
 
 ## Certification 🏆
 정보처리기사 <sub>(2023.09)</sub> <br/>
-SQL개발자(SQLD) <sub>(2023.04)</sub> <br/><br/>
+SQL 개발자 (SQLD) <sub>(2023.04)</sub> <br/><br/>
 
 ## Skill 📚
 <p>
