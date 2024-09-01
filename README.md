@@ -7,7 +7,8 @@
 인하대학교 정보통신공학과 <sub>(2018.03 ~ 2024.02)</sub> <br/>
 멋쟁이사자처럼 대학 10기 프론트엔드 <sub>(2022.03 ~ 2022.12)</sub> <br/>
 멋쟁이사자처럼 대학 11기 운영진 <sub>(2023.01 ~ 2023.12)</sub> <br/>
-삼성SDS 대학생 알고리즘 특강 <sub>(2023.07 ~ 2023.08)</sub> <br/><br/>
+삼성SDS 대학생 알고리즘 특강 <sub>(2023.07 ~ 2023.08)</sub> <br/>
+신한투자증권 프로디지털아카데미 <sub>(2024.03 ~ 2024.09)</sub> <br/><br/>
 
 ## BOJ 👩‍💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk9803)](https://solved.ac/wlsdk9803/)
