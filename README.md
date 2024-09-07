@@ -74,7 +74,7 @@
   <tr>
     <td><strong>Eyescape</strong> <br/><sub>(2023.03 ~ 2023.06)</sub></td>
     <td>OCR 기술과 ChatGPT를 활용한 <strong>시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스</strong></td>
-    <td>Python, Express, ChatGPT, OCR, STT, TTS, SSE</td>
+    <td>Python, Express, ChatGPT, OCR, STT, TTS, SSE, Selenium</td>
     <td>https://github.com/wlsdk9803/2023-graduation-project</td>
   </tr>
   <tr>
