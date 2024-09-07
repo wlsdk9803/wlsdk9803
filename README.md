@@ -80,7 +80,7 @@
   <tr>
     <td><strong>Personal</strong> <br/><sub>(2022.06 ~ 2022.07)</sub></td>
     <td>지극히 개인적인, 나만의 감각을 찾아주는 Personal 서비스</td>
-    <td>React, styled-component</td>
+    <td>React, styled component</td>
     <td>https://github.com/wlsdk9803/personal-onlyFE</td>
   </tr>
 </table>
