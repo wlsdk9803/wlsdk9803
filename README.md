@@ -62,7 +62,7 @@
   <tr>
     <td><strong>140 PAY</strong> <br/><sub>(2024.08 ~2024.09)</sub></td>
     <td>여유 자금은 부족하지만 주식 투자는 하고 싶은 사회 초년생들을 위한, <strong>주식 담보 신용 간편결제 서비스</strong></td>
-    <td>Spring Boot, My SQL, Redis</td>
+    <td>[BE] Spring Boot, JPA, My SQL, Redis, RabbitMQ, FCM<br/>[FE] React, typescript, styled component, tailwind css, PWA</td>
     <td>https://github.com/pda-pay</td>
   </tr>
   <tr>
