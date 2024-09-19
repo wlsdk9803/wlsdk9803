@@ -66,12 +66,6 @@
     <td>https://github.com/pda-pay</td>
   </tr>
   <tr>
-    <td><strong>주토피아</strong> <br/><sub>(2024.06)</sub></td>
-    <td>주식이 어려운 당신을 위한, <strong>주식 투자 교육 서비스 주토피아</strong></td>
-    <td>Next.js, typescript, styled component, tailwind css, SSE</td>
-    <td>https://github.com/PDA-JUTOPIA</td>
-  </tr>
-  <tr>
     <td><strong>Eyescape</strong> <br/><sub>(2023.03 ~ 2023.06)</sub></td>
     <td>OCR 기술과 ChatGPT를 활용한 <strong>시각장애인 대상 인터넷 쇼핑 음성 챗봇 서비스</strong></td>
     <td>Python, Express, ChatGPT, OCR, STT, TTS, SSE, Selenium</td>
