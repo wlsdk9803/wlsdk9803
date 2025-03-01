@@ -1,6 +1,5 @@
 ## BOJ 👩‍💻
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk9803)](https://solved.ac/wlsdk9803/)
-
 <br/>
 
 ## Projects 💥
