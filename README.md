@@ -1,55 +1,7 @@
-# 박진아 Jina Park ✨
-> 소통을 좋아하는 <b>'수다쟁이 개발자'</b>
+## BOJ 👩‍💻
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk9803)](https://solved.ac/wlsdk9803/)
+
 <br/>
-
-## Skill 📚
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-  <!-- Programming-Language -->
-  <p><strong>Programming Language</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/TYPESCRIPT-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23ffffff" />
-    
-  </div>
-  <br />
-
-  <!-- Front-end -->
-  <p><strong>Frontend</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/TAILWIND%20CSS-%2306B6D4?style=for-the-badge&logo=tailwindcss&logoColor=%23ffffff" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-  </div>
-  <br/>
-
-  <!-- Back-end -->
-  <p><strong>Backend</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white">
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"> 
-    <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> 
-  </div>
-  <br/>
-
-  <!-- Database -->
-  <p><strong>Database</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-    <img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=Redis&logoColor=white">
-  </div>
-  <br />
-
-  <!-- Design -->
-  <p><strong>Design</strong></p>
-  <div>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=black"> 
-  </div>
-  <br />
 
 ## Projects 💥
 <table align="center">
@@ -78,11 +30,6 @@
     <td>https://github.com/wlsdk9803/personal-onlyFE</td>
   </tr>
 </table>
-<br/>
-
-## BOJ 👩‍💻
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wlsdk9803)](https://solved.ac/wlsdk9803/)
-
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwlsdk9803&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
